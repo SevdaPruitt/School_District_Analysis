@@ -1,13 +1,10 @@
 Overview of the school district analysis: 
 Maria has asked me to analyze the school data she has provided based on the following points:
 
-A high-level snapshot of the district's key metricsas shown below
+- A high-level snapshot of the district's key metrics is as shown below
 
 ![EachSchoolDetailedAnalysis.png](Resources/images/EachSchoolDetailedAnalysis.png)
 
-An overview of the key metrics for each school
-
-Tables presenting each of the following metrics:
 Top 5 performing schools, based on the overall passing rate
 ![Top5Schools.png](Resources/images/Top5Schools.png)
 
@@ -29,8 +26,7 @@ School performance based on the school size
 School performance based on the type of school
 ![CharterDistrictSchoolType.png](Resources/images/CharterDistrictSchoolType.png)
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-
+Results: 
 How is the district summary affected?
 ![DistrictSummary.png](Resources/images/DistrictSummary.png)
 
