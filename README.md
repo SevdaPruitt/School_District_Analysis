@@ -9,7 +9,7 @@ An overview of the key metrics for each school
 
 Tables presenting each of the following metrics:
 Top 5 performing schools, based on the overall passing rate
-![Top5Schools.png](Resources/images/Top5Schools)
+![Top5Schools.png](Resources/images/Top5Schools.png)
 
 Bottom 5 performing schools
 ![Bottom5Schools.png](Resources/images/Bottom5Schools.png)
@@ -39,7 +39,7 @@ How is the school summary affected?
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Overall Thomas High School was still scuccessful to be listed in the top 5 schools.
-![Top5Schools.png](Resources/images/Top5Schools)
+![Top5Schools.png](Resources/images/Top5Schools.png)
 
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
