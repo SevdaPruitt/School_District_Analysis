@@ -18,7 +18,7 @@ The average reading score received by students in each grade level at each schoo
 ![ReadingScorebyEachGrade.png](Resources/images/ReadingScorebyEachGrade.png)
 
 School performance based on the budget per student
-![GroupedBySpendingRangesforStudents.png](Resources/images/GroupedBySpendingRangesforStudents.png)
+![PerSchoolPerformanceDetails.png](Resources/images/PerSchoolPerformanceDetails.png)
 
 School performance based on the school size 
 ![SmallMediumLargeBasedSchoolSize.png](Resources/images/SmallMediumLargeBasedSchoolSize.png)
